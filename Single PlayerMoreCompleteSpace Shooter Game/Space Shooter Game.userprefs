@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyByBoundary.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Level1BossController.cs" Line="15" Column="29" />
+      <File FileName="Assets\EnemyShipBoxColliderScript.cs" Line="19" Column="13" />
+      <File FileName="Assets\SinglePlayerController.cs" Line="11" Column="20" />
+      <File FileName="Assets\Scripts\SinglePlayerGameController.cs" Line="41" Column="9" />
+      <File FileName="Assets\Scripts\ShotMover.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\DestroyByTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShotScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DestroyByBoundary.cs" Line="17" Column="1" />
+      <File FileName="Assets\Scripts\Destroy_Astroid.cs" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\EnemySmartRocketMover.cs" Line="25" Column="2" />
+      <File FileName="Assets\EnemyShipCapsuleColliderScript.cs" Line="9" Column="17" />
+      <File FileName="Assets\PowerUpEvent.cs" Line="12" Column="2" />
+      <File FileName="Assets\Scripts\MenuScript.cs" Line="10" Column="15" />
+      <File FileName="Assets\Done\Done_Scripts\Done_DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="66" Column="7" />
+      <File FileName="Assets\Scripts\Rotate_Astroid.cs" Line="8" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
